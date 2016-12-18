@@ -1,1 +1,1 @@
-web: node peer-server.js
+web: node server.js
